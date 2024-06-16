@@ -1,0 +1,11 @@
+{
+    "name":"Flutter+Laravel",
+    "description": "This template helps you get started building a mobile app with Flutter that interacts with a Laravel API backend.",
+    "categories": ["Mobile", "Backend", "API"],
+    "icon": "https://raw.githubusercontent.com/mg3994/Flutter-Laravel/main/.idx/icon.svg",
+    "publisher": "Manish",
+     "host": {
+     "virtualization": true
+    }
+    
+}

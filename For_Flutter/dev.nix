@@ -94,6 +94,7 @@ in
           manager = "flutter";
         };
         android = {
+          cwd = "${flutterProjectDir}";
           command = ["flutter" "run" "--enable-experiment=macros"  "--machine" "-d" "android" "-d" "emulator-5554" "--target=${flutterProjectDir}/lib/main.dart"];
           manager = "flutter";
         };
